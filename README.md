@@ -1,4 +1,6 @@
-for the backend run the node command ./build/index.js
+# For the backend run the node command 
+
+./build/index.js
 
 # Getting Started with Create React App
 

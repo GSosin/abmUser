@@ -1,5 +1,7 @@
 # For the backend run the node command 
 
+In the project directory, you can run:
+
  ### `node ./build/index.js`
 
 # Getting Started with Create React App
@@ -8,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the frontend folder, you can run:
 
 ### `npm start`
 
